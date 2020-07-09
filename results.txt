@@ -1,0 +1,19 @@
+th: ["the","that","with","this","thou","thy","thee","they","then","their","them","hath","than","there","these","th","think","doth","death","father","thus","other","both","nothing","though"]
+
+fr: ["from","france","friends","friend","french","free","friar","fresh","freely","francis","frame","frown","friendship","afraid","friendly","fruit","frederick","freedom","fright","froth","front","fran","frenchman","frowns","pomfret"]
+
+pi: ["copies","spirit","pity","pistol","spirits","pisanio","piece","opinion","lepidus","spite","happiness","weeping","despite","sleeping","capitol","picture","cupid","pieces","jupiter","suspicion","pinch","pitch","pitiful","happily","pierce"]
+
+sh: ["shall","she","should","show","shame","shalt","shakespeare","shallow","membership.\u003e\u003e","wish","english","shes,flourish,flesh,lordship,shepherd,shylock,shows,shake,fashion,foolish,short,worship,banishd","shape"]
+
+wu: ["swum","swung","wul"]
+
+ar: ["are","heart","art","hear","fear","bear","caesar","part","richard","dear","warwick","marry","farewell","heard","edward","earth","pardon","tears","far","shakespeare","near","swear","war","arms","charges"]
+
+il: ["will","till","still","william","wilt","troilus","while","villain","child","ill","illinois","devil","kill","achilles","emilia","silvia","camillo","killd,whilst,vile,silence,children,awhile,wild,whiles]
+
+ne: [one,mine,never,scene,done,none,gone,thine,news,fortune,honest,near,alone,business,valentine,machine,benedictine,new,neer","general","menenius","berowne","highness","neither","money"]
+
+se: ["see","these","whose","second","myself","use","those","house","set","himself","service","else","servant","please","cause","messenger","false","yourself","sent","seen","send","used","present","itself","syracuse"]
+
+pl: ["place","please","play","complete","people","pleasure","plain","simple","pluck","plague","plantagenet","pleasd,plot,plead,playd","haply","displeasure","complexion","places","pleasures","players","plays","pleasant","naples","example"]
